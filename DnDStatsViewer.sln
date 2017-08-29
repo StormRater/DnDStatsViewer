@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DnDViewer", "DnDViewer\DnDViewer.vcxproj", "{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Debug|ARM.ActiveCfg = Debug|ARM
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Debug|ARM.Build.0 = Debug|ARM
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Debug|x64.ActiveCfg = Debug|x64
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Debug|x64.Build.0 = Debug|x64
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Debug|x86.ActiveCfg = Debug|x86
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Debug|x86.Build.0 = Debug|x86
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Release|ARM.ActiveCfg = Release|ARM
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Release|ARM.Build.0 = Release|ARM
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Release|x64.ActiveCfg = Release|x64
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Release|x64.Build.0 = Release|x64
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Release|x86.ActiveCfg = Release|x86
+		{6AD0390F-2C65-4902-BC6C-A7FB47300CF3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A39D414-9B12-4115-ADEE-E93051BFB353}
+	EndGlobalSection
+EndGlobal
